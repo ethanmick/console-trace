@@ -5,5 +5,9 @@
   , "main": "./console-trace"
   , "dependencies": {
       "callsite": "*"
-    }
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wayfarer247/console-trace.git"
+  }
 }
